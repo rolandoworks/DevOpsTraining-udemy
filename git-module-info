@@ -6,5 +6,9 @@ DevOps MasterClass: GIT Docker Jenkins Kubernetes.
 
         First file for Section - 3 on Git.
 
+<<<<<<< HEAD
 	      Continuing on May-2021
 		 ..................
+=======
+	       ..................
+>>>>>>> 929d03b5ed8b28ffca403b1ca9e053d486b57483
